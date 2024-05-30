@@ -1,0 +1,7 @@
+Generate a .gitignore file for python 
+*.pyc
+__pycache__/
+venv/
+.idea/
+*.env
+*.sta
